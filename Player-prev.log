@@ -1,0 +1,774 @@
+Mono path[0] = 'D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Games/RimWorld/RimWorld v1.4.3537 rev246/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   
+    VRAM:     1979 MB
+    Driver:   30.0.14.7111
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.108 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.848000 ms
+[Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.4.3537 rev246
+Mod Vanilla Furniture Expanded is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161445F7EE0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161444D34B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144383360.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614071E030.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161447DA910.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614480CF20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614485C550.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614485F760.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016140720440.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144887F80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614451FA50.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144940590.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144978FB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144A6B1D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161443C2F90.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144B62010.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144BC0C20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D02840.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D27E50.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D31070.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D34280.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D4BA90.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D50AA0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D562C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D5B2D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000162CC613C10.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D68CF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144D8D700.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144DBB510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144DBCF20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144DC0730.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144DEF970.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E23020.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E2CE40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E2E450.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E2FA60.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E43270.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144E56EA0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144F72180.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144F74D90.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144F8D3A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144F923B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144F9C9C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145008010.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000162CC617C20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614503F630.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614504E0E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145061850.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145658090.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161456880B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161456A0CD0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161456A56E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161456A68F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161456A9500.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145764010.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161457BAC20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161457C7640.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161457ED850.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614581EA70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145AC9710.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145BCA230.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145D3DD70.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145E6E060.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145E6EC70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F4C020.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F4F2B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F56560.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F57170.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F58510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F59120.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016145F59D30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000162D41F0020.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146105530.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146106140.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614612C020.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614612E850.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446A270.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446BA90.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446F6E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446C6A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446D2B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614446AE80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161444702F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016144469660.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463BEDF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C0610.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C2A40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C4E70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C3650.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C1220.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463BE1E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C5A80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463BFA00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C6690.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C72A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C7EB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C4260.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C8AC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C1E30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463CA2E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463CAEF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463CBB00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463C96D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463CC710.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161463CD320.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464950A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146492C70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146495CB0.dll
+dubwise.dubsbadhygiene 3.0.2228
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146498CF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464974D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464968C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146494490.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464980E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146492060.dll
+Rimefeller 1.2.1220
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649A510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146499900.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146493880.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649BD30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649D550.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649C940.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649F980.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649E160.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464A0590.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649ED70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614649B120.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161464A11A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAC880.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAE0A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAF8C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAD490.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAECB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB04D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB10E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB1CF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DAB060.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB2900.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DABC70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB8980.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB6550.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB7160.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB4D30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB5940.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB7D70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB3510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DB9590.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146DBA1A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6AD00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F67CC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F64C80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F688D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6A0F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F65890.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F64070.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F664A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F694E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6DD40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6D130.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6B910.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6C520.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F670B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F70170.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F70D80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F6E950.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F71990.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F725A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F731B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F99910.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9A520.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F98D00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F95CC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F974E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F980F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9B130.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F968D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9BD40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F950B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9F990.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA11B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA1DC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA29D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA35E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9C950.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA05A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146FA41F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9ED80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9D560.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146F9E170.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EE8070.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEBCC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEA4A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEC8D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEB0B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EED4E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEE0F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEED00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EEF910.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EE8C80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF0520.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EE9890.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF3560.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF5990.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF1130.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF71B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF1D40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF4170.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF4D80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF2950.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016146EF65A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714E8F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714D0D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147150110.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147150D20.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714ACA0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714C4C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714DCE0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714F500.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714A090.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147152540.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614714B8B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147153150.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147153D60.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147156190.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147155580.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161471579B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147154970.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147156DA0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147151930.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161471591D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727F0E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727CCB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727D8C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727E4D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727FCF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147279060.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147280900.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147279C70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147281510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727A880.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727C0A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147282120.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614727B490.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147284550.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147283940.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147285160.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147285D70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147282D30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147286980.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147287590.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161472881A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732B070.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473304E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732C890.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732D4A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732F8D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473310F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732ECC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147332910.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147331D00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732E0B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614732BC80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147337D80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147334D40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147333520.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147338990.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147335950.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147336560.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733ADC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147337170.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473395A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733A1B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147334130.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147342660.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147341A50.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733B9D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147343270.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147340230.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733EA10.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147340E40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733C5E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147343E80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733F620.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733D1F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147344A90.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614733DE00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473456A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473462B0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147346EC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147347AD0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473486E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161473492F0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-0000016147349F00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749C060.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749D880.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A20E0.dll
+[VanillaAchievementsExpanded] version 1.4.8315
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749E490.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749FCB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749F0A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A14D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001614749CC70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A2CF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A08C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A3900.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AA590.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A8160.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AB1A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A9980.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A8D70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A4510.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474ABDB0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A5120.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AC9C0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A5D30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A6940.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AD5D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474A7550.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B0610.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AE1E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B1E30.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B4260.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B4E70.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AEDF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B2A40.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B5A80.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B6690.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B3650.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474AFA00.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B7EB0.dll
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Sparkling Worlds
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B72A0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B1220.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B96D0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474BA2E0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474B8AC0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-00000161474BAEF0.dll
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001630DF260F0.dll
+Translation data for language English has 14 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Games/RimWorld/RimWorld v1.4.3537 rev246/RimWorldWin64_Data/Mono/data-000001639EC86FD0.dll
+....
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+MVCF successfully applied 41 patches
+CharacterEditor v1.4.1105 initializing...
+updating labels for english...
+loading/updating slots...
+loading/updating customs...
+character editor instance created
+allowing apparel to be colorable...
+checking editor settings...
+CharacterEditor v1.4.1105 ...done
+[HugsLib] initializing YayoCombat3, RunAndGun, Hospitality
+FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 13.518900 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 32265.
+Total: 407.262600 ms (FindLiveObjects: 26.971500 ms CreateObjectMapping: 3.163100 ms MarkObjects: 376.604400 ms  DeleteObjects: 0.523100 ms)
+
+Loading game from file Imperial Scum with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - smashphil.srtsexpanded
+  - ELIF.SRTS.Helicopters
+  - UnlimitedHugs.HugsLib
+  - Mlie.YayosCombat3
+  - brrainz.achtung
+  - void.charactereditor
+  - LWM.DeepStorage
+  - Mehni.PickUpAndHaul
+  - roolo.RunAndGun
+  - Dubwise.DubsBadHygiene
+  - Nals.FacialAnimation
+  - Dubwise.Rimefeller
+  - Albion.SparklingWorlds.Full
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VMemesE
+  - Sarg.AlphaMemes
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VPersonaWeaponsE
+  - VanillaExpanded.VWENL
+  - VanillaExpanded.VAEAccessories
+  - VanillaExpanded.VPsycastsE
+  - OskarPotocki.VFE.Empire
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - OskarPotocki.VFE.Pirates
+  - VanillaExpanded.VFEA
+  - VanillaExpanded.VFEProduction
+  - Orion.Hospitality
+Achtung v3.5.1.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.StandardLetter curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_25 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=QuestPart_SurpriseReinforcement (index=7) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=QuestPart_SurpriseReinforcement (index=7) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_29 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=QuestPart_SurpriseReinforcement (index=7) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=colonist_booze_tracker_backup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID World of type RimWorld.IIncidentTarget. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VFEEmpire.GameComponent_WealthIncreaseTracker curPathRelToParent=/lastWealth/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Map_5 of type RimWorld.IIncidentTarget. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VFEEmpire.GameComponent_WealthIncreaseTracker curPathRelToParent=/lastWealth/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Map_6 of type RimWorld.IIncidentTarget. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VFEEmpire.GameComponent_WealthIncreaseTracker curPathRelToParent=/lastWealth/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of RimWorld.IIncidentTarget and System.Single. label=lastWealth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of RimWorld.IIncidentTarget and System.Single. label=lastWealth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of RimWorld.IIncidentTarget and System.Single. label=lastWealth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of RimWorld.IIncidentTarget and System.Single. label=lastWealth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID World of type RimWorld.IIncidentTarget. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VFEEmpire.GameComponent_WealthIncreaseTracker curPathRelToParent=/ticksTillIncident/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of RimWorld.IIncidentTarget and System.Int32. label=ticksTillIncident 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=20100) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=19350) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=18450) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=17850) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=17250) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=10500) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=8700) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=8700) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=11700) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1860 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(ObservedLayingCorpse, moodPowerFactor=1, moodOffset=0, age=11250) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Recurve413246_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416296_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Short405727_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Short405738_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416289_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416300_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Recurve413251_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Short413239_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416302_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_VWE_Throwing_Rocks413254_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_ChargeLance416293_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_ChargeLance416291_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416282_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_MiniShotgun416285_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_Needle416287_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_Needle416279_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_ChargeLance416275_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_ThumpCannon416273_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_ChargeLance416298_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Gun_Needle416277_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_Bow_Short424135_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Verb_CompEquippable_VWE_Bow_Compound328936_0 of type Verse.Verb. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MVCF.VerbManager curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Haytt pathing to destroyed thing Filth_Dirt431431 curJob=Clean (Job_4419173) A=Thing_Filth_Dirt431431 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 39651.
+Total: 436.691700 ms (FindLiveObjects: 1.599300 ms CreateObjectMapping: 3.704300 ms MarkObjects: 431.135300 ms  DeleteObjects: 0.251000 ms)
+
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+Trying to save reference to a discarded thing Mech_Scorcher298998 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299026 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron299028 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Wuyon with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Von with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron298992 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher298998 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299008 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299026 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron299028 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Wuyon with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Von with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_CentipedeBlaster348640 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron298992 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher298998 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299008 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299010 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299012 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299018 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher299024 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299026 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron299028 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Wuyon with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Von with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_CentipedeBlaster348640 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Thenath with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Hokavrozz with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+selected=Apparel_KidShirt
+searching for compatible apparel in subpath=Things/Pawn/Humanlike/Apparel/KidShirt .. found=4 .. checking for matching entity=KidShirt_Child
+selected=Apparel_KidPants
+searching for compatible apparel in subpath= .. found=11836 .. checking for matching entity=
+selected=Apparel_KidPants
+searching for compatible apparel in subpath= .. found=11836 .. checking for matching entity=
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+Trying to save reference to a discarded thing Mech_Tesseron298992 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher298998 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299008 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299010 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299012 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299018 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher299024 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299026 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron299028 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Wuyon with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Von with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_CentipedeBlaster348640 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Thenath with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Hokavrozz with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error while processing a quest signal: System.NullReferenceException: Object reference not set to an instance of an object
+  at RimWorld.QuestManager.IsReservedByAnyQuest (RimWorld.Faction f) [0x00010] in <2a35adf0a6b2491888068e783d046a45>:0 
+  at RimWorld.FactionManager.FactionCanBeRemoved (RimWorld.Faction faction) [0x0002d] in <2a35adf0a6b2491888068e783d046a45>:0 
+  at RimWorld.FactionManager.Notify_QuestCleanedUp (RimWorld.Quest quest) [0x0001d] in <2a35adf0a6b2491888068e783d046a45>:0 
+  at RimWorld.Quest.CleanupQuestParts () [0x0009f] in <2a35adf0a6b2491888068e783d046a45>:0 
+  at (wrapper dynamic-method) RimWorld.Quest.RimWorld.Quest.End_Patch2(RimWorld.Quest,RimWorld.QuestEndOutcome,bool)
+  at RimWorld.QuestPart_QuestEnd.Notify_QuestSignalReceived (RimWorld.Signal signal) [0x0004c] in <2a35adf0a6b2491888068e783d046a45>:0 
+  at RimWorld.Quest.Notify_SignalReceived (RimWorld.Signal signal) [0x000ac] in <2a35adf0a6b2491888068e783d046a45>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron298992 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher298998 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299008 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299010 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299012 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Pikeman299018 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Scorcher299024 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Lancer299026 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_Tesseron299028 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Wuyon with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Von with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Mech_CentipedeBlaster348640 with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Thenath with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Trying to save reference to a discarded thing Hokavrozz with saveDestroyedThings=true. This means that it's not deep-saved anywhere and is no longer managed by anything in the code, so saving its reference will always fail. , label=li 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: d44 -> priority: 1 
+  Thread -> id: 97c -> priority: 1 
+  Thread -> id: 1bd4 -> priority: 1 
+  Thread -> id: 1f2c -> priority: 1 
